@@ -1,6 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:ape_nft/common_libs.dart';
 
+//ape nft
 void main() async {
   //GET INITS
   // permannent as the instance must persistet through out the application
